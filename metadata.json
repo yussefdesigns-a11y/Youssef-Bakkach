@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LingoLeap",
+  "description": "A gamified, modern language learning application for French and English with AI-powered lessons.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
